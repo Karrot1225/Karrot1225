@@ -4,9 +4,9 @@
 
 <p align="center"> "Ask not what others can do for you, but what you can do for others." </p>
 
-<p align="left"> <img width="400" height="309" alt="tingy" src="https://github.com/user-attachments/assets/66dab9f9-0ed7-44a6-a1d7-193b460ee051" />
-<p align="right"> Hi! I'm Karro_t! I don't actually code but I'm trying my darnest to understand it. I'm working on a project with the oh so tuff and benevolent aakarshanlc. </p>
-<p align="right">  <img width="300" height="400" alt="linglong" src="https://github.com/user-attachments/assets/4fdbf4af-2c5a-496f-a943-18f0a201465d" </p>
+<p align="center"> <img width="400" height="309" alt="tingy" src="https://github.com/user-attachments/assets/66dab9f9-0ed7-44a6-a1d7-193b460ee051" />
+<p align="center"> Hi! I'm Karro_t! I don't actually code but I'm trying my darnest to understand it. I'm working on a project with the oh so tuff and benevolent aakarshanlc. </p>
+<p align="center">  <img width="498" height="281" alt="tubby" src="https://github.com/user-attachments/assets/14291abb-7de1-4ad7-92ed-92432cdc2dea" </p>
 
 
 <!--
